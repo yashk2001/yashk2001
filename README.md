@@ -5,7 +5,7 @@
 
   <!-- ![](https://komarev.com/ghpvc/?username=TheSonOfSocrates) -->
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yashk2001" />
 
 <p align="center">
   <a href="https://github.com/javasuperdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Java%20Script%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
